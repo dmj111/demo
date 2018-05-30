@@ -1,4 +1,4 @@
 # JS test pages 
 
-[Simple demo](/demo1/)
+[Simple demo](demo1/)
 
